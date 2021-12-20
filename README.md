@@ -15,7 +15,7 @@ Things you must be familiar with for this project.
 * sublime text editor or any text editor.
 
 ### Installing
-git clone 'https://github.com/Sirishakrishna/Sirishakrishna.github.io.git' or download zip and extract to your required folder.
+git clone 'https://github.com/22ravipavithra/pavithra_ravi.git' or download zip and extract to your required folder.
 
 ### Deployment
 Create a repository with 'username.github.io' and upload your project to this repository to get github hosted your profile.
